@@ -12,8 +12,7 @@ Introduing a Tic Tac Toe robot capable of playing against a human by optimizing 
 # Collaborators
 Special thanks to Nuthanan Tharmarajah, Clark Dimond, James Kurian, Ayan Kabir Chowdhury for developing the project. 
 
+# Video Demonstration
 
-
-
-
+https://github.com/user-attachments/assets/d3532f4b-e34a-4fed-8cad-58be6136ac16
 
