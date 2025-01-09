@@ -10,7 +10,7 @@ Introduing a Tic Tac Toe robot capable of playing against a human by optimizing 
 4. Configure values depending on distances in main.c.
 
 # Collaborators
-Special thanks to Nuthanan Tharmarajah, Clark Dimond, James Kurian, Ayan Kabir Chowdhury for aiding in the process. 
+Special thanks to Nuthanan Tharmarajah, Clark Dimond, James Kurian, Ayan Kabir Chowdhury for developing the project. 
 
 
 
