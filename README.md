@@ -5,9 +5,9 @@ Introduing a Tic Tac Toe robot capable of playing against a human by optimizing 
 
 # Installation
 1. Install [RobotC](https://www.robotc.net/) (only works on Windows computers)
-2. Copy the code from main.c
+2. Copy the code from [main.c] (https://github.com/nuthanan06/Tic-Tac-Toe-Robot/blob/main/main.c)
 3. Download the firmware code onto your robot, robot should be configured and built similarily to the video.
-4. Configure values depending on distances in main.c.
+4. Configure values depending on distances in [main.c](https://github.com/nuthanan06/Tic-Tac-Toe-Robot/blob/main/main.c).
 
 # Video Demonstration
 
